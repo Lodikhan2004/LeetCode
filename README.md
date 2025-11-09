@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lodikhan2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0898-transpose-matrix](https://github.com/Lodikhan2004/LeetCode/tree/master/0898-transpose-matrix) |
 | [1651-shuffle-string](https://github.com/Lodikhan2004/LeetCode/tree/master/1651-shuffle-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Lodikhan2004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lodikhan2004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1651-shuffle-string](https://github.com/Lodikhan2004/LeetCode/tree/master/1651-shuffle-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Lodikhan2004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -36,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Lodikhan2004/LeetCode/tree/master/0898-transpose-matrix) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Lodikhan2004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Lodikhan2004/LeetCode/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Lodikhan2004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
