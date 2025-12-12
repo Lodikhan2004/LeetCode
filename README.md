@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lodikhan2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lodikhan2004/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lodikhan2004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0142-linked-list-cycle-ii](https://github.com/Lodikhan2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Lodikhan2004/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Lodikhan2004/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lodikhan2004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/Lodikhan2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Lodikhan2004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String Matching
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Lodikhan2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Lodikhan2004/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lodikhan2004/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Lodikhan2004/LeetCode/tree/master/0876-middle-of-the-linked-list) |
